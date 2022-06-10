@@ -147,5 +147,18 @@
         display: table;
 
     }
+    #mobile-menu{
+        position: absolute;
+        top: 20%;
+        right: 5%;
+        transform: translate(5%,20%);
+    }
+    .navbar_button{
+        padding-bottom: 2 rem;
+    }
+    .button{
+        display: flex;
+        justify-content: center;
+    }
 
 }
