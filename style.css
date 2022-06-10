@@ -78,7 +78,7 @@
     display: flex;
     justify-content: center;
     text-decoration: none;
-    padding: 10px 20px;
+    padding: 5px 5px;
     height: 100%;
     width: 100%;
     border: none;
@@ -111,10 +111,11 @@
         width: 100%;
         position: absolute;
         top: -1000px ;
-        opacity: 1;
+        opacity: 1; 
         transition: all 0.5s ease;
         height: 50vh;
         z-index: -1;
+        background-color: black;
     }
     .navbar_menu.active{
         background-color: black;
@@ -154,11 +155,30 @@
         transform: translate(5%,20%);
     }
     .navbar_button{
-        padding-bottom: 2 rem;
+        padding-bottom: 10px;
     }
     .button{
         display: flex;
         justify-content: center;
+        align-items: center;
+        width: 80%;
+        height: 80px;
+        margin: 0;
+
+
+    }
+    .navbar_toggle .bar{
+        display: block;
+        cursor: pointer;
+    }
+    #mobile-menu.is-active .bar:nth-child(2){
+        opacity: 0;
+    }
+    #mobile-menu.is-active .bar:nth-child(1){
+        transform: translateY(8px) rotate(45deg);
+    }
+    #mobile-menu.is-active .bar:nth-child(3){
+        transform: translateY(-8px) rotate(-45deg);
     }
 
 }
