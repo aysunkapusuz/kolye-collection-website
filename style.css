@@ -354,8 +354,8 @@
     -webkit-tex-fill-color:transparent;
     -moz-text-fill-color:transparent;
 }
-/* .services_container{
+.services_container{
     display: flex;
-    justify-content: center;
+  /*  justify-content: center;
     flex-wrap: wrap;
 } */
