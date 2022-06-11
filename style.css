@@ -306,7 +306,7 @@
     }
 }
  
-/* @media screen and (max-width:480px){
+@media screen and (max-width:480px){
     .main_content h1{
         font-size: 2rem;
         margin-top: 3rem;
@@ -326,7 +326,7 @@
 }
 
 
-.services{
+/* .services{
     background-color: beige;
     display: flex;
     flex-direction: column;
