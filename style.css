@@ -333,7 +333,7 @@
     align-items: center;
     height: 100vh;
 }
-/* .services h1{
+.services h1{
     background-color: bisque;
     background-image: linear-gradient(to right,
     rgb(227, 236, 227) 0%,
@@ -343,7 +343,7 @@
     rgb(51, 167, 51) 78%,
     rgb(12, 153, 12) 100%
     );
-    background-size: 100%;
+    /* background-size: 100%;
     margin-bottom: 5rem;
     font-size: 2.5rem;
     background-color: cadetblue;
