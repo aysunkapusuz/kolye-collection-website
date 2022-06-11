@@ -326,14 +326,14 @@
 }
 
 
-/* .services{
+.services{
     background-color: beige;
     display: flex;
     flex-direction: column;
     align-items: center;
     height: 100vh;
 }
-.services h1{
+/* .services h1{
     background-color: bisque;
     background-image: linear-gradient(to right,
     rgb(227, 236, 227) 0%,
