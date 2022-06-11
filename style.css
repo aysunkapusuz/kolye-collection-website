@@ -343,7 +343,7 @@
     rgb(51, 167, 51) 78%,
     rgb(12, 153, 12) 100%
     );
-    /* background-size: 100%;
+    background-size: 100%;
     margin-bottom: 5rem;
     font-size: 2.5rem;
     background-color: cadetblue;
@@ -354,7 +354,7 @@
     -webkit-tex-fill-color:transparent;
     -moz-text-fill-color:transparent;
 }
-.services_container{
+/* .services_container{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
