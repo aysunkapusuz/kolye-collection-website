@@ -370,9 +370,9 @@
     position: relative;
     color: #fff;
 }
-.services_car:nth-child(2){
+.services_card:nth-child(2){
     background-image: /* linear-gradient(to bottom, rgb(44, 161, 44) 0%, rgb(129, 222, 129) 100%), */
-    url ('/images/pic1.jpg');
+    url('/images/pic2.jpg');
 
 }
 .services h2{
