@@ -223,24 +223,24 @@
     width: 400px;
     border-radius: 10px;
     background-image: /* linear-gradient(to bottom, rgb(44, 161, 44) 0%, rgb(129, 222, 129) 100%), */
-    url('/necklaces/n2.jpg');
+    url('/earrings-rings/r1.jpg');
     background-size: cover;
     position: relative;
     color: #fff;
 }
 .services_card:nth-child(2){
     background-image: /* linear-gradient(to bottom, rgb(44, 161, 44) 0%, rgb(129, 222, 129) 100%), */
-    url('/necklaces/n10.jpg');
+    url('/earrings-rings/pexels-karolina-grabowska-7588194.jpg');
 
 }
 #third_card{
-    background-image: url('/necklaces/n3.jpg');
+    background-image: url('/earrings-rings/pexels-maksim-goncharenok-4424102.jpg');
 }
 #fourth_card{
-    background-image: url('/necklaces/n4.jpg');
+    background-image: url('/earrings-rings/r4.jpg');
 }
 #fifth_card{
-    background-image: url('/necklaces/n5.jpg');
+    background-image: url('/earrings-rings/r5.jpg');
 }
 #sixth_card{
     background-image: url('/necklaces/n6.jpg');
