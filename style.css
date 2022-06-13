@@ -361,7 +361,7 @@
 }
 .services_card:nth-child(2){
     background-image: /* linear-gradient(to bottom, rgb(44, 161, 44) 0%, rgb(129, 222, 129) 100%), */
-    url('/images/pic2.jpg');
+    url('/images/yeni.jpg');
 
 }
 .services h2{

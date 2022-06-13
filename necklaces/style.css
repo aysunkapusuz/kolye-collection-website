@@ -223,7 +223,7 @@
     width: 400px;
     border-radius: 10px;
     background-image: /* linear-gradient(to bottom, rgb(44, 161, 44) 0%, rgb(129, 222, 129) 100%), */
-    url('/necklaces/n2.jpg');
+    url('/necklaces/n5.jpg');
     background-size: cover;
     position: relative;
     color: #fff;
@@ -240,22 +240,22 @@
     background-image: url('/necklaces/n4.jpg');
 }
 #fifth_card{
-    background-image: url('/necklaces/n5.jpg');
+    background-image: url('/necklaces/n2.jpg');
 }
 #sixth_card{
     background-image: url('/necklaces/n6.jpg');
 }
 #seventh_card{
-    background-image: url('/necklaces/n13.jpg');
+    background-image: url('/necklaces/n19.jpg');
 }
 #eighth_card{
-    background-image: url('/necklaces/n8.jpg');
+    background-image: url('/necklaces/n17.jpg');
 }
 #ninth_card{
-    background-image: url('/necklaces/n9.jpg');
+    background-image: url('/necklaces/n16.jpg');
 }
 #tenth_card{
-    background-image: url('/necklaces/n14.jpg');
+    background-image: url('/necklaces/n18.jpg');
 }
 
 #eleven_card{
