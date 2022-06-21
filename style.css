@@ -467,3 +467,34 @@
     cursor: pointer;
 
 }
+@media screen and (max-width:960px){
+    .footer_logo{
+        display: flex;
+        margin-left: 8px;
+        margin-right: 40px;
+        font-size: 15px;
+    }
+    .footer_second{
+        font-size: 10px;
+        margin-right: 90px;
+    }
+    .footer_social-media{
+        font-size: 15px;
+    }
+}
+@media screen and (max-width:480px){
+    .footer_logo{
+        display: flex;
+        margin-left: 8px;
+        margin-right: 10px;
+        font-size: 12px;
+    }
+    .footer_second{
+        font-size: 10px;
+        margin-right: 20px;
+    }
+    .footer_social-media{
+        font-size: 12px;
+    }
+
+}
