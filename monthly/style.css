@@ -199,11 +199,11 @@
 .services h1{
     margin-top: 30px;
     background-image: linear-gradient(to right,
-    rgb(227, 236, 227) 0%,
-    rgb(192, 196, 145) 26%,
-    rgb(145, 145, 80) 52%,
-    rgb(150, 141, 45) 65%,
-    rgb(120, 97, 12) 100%
+    rgb(248, 253, 248) 0%,
+    rgb(214, 214, 207) 26%,
+    rgb(200, 200, 173) 52%,
+    rgb(169, 168, 146) 65%,
+    rgb(143, 138, 120) 100%
     );
 
     background-size: 100%;
